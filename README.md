@@ -94,7 +94,7 @@ For example, in the key metrics data, for each of the stock it contains columns:
 
 ## Usage
 
-With the extensive range of historical financial data you've collected, 
+With the extensive range of historical financial data, 
 from balance sheets to S&P 500 company profiles spanning from 1980 to 2023, 
 there are numerous analytical and research opportunities. Here are some potential uses for this data:
 
